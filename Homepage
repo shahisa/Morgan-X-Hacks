@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<!--
+
+	Hompage of Morgan X
+	
+-->
+
+<html lang="en-US">
+
+
+	<head>
+	<style>
+	
+	body
+	{
+	background-image: url("earth from above.png")
+	}
+	
+	</style>
+
+	
+		<title> Morgan X </title>
+		
+	</head>
+	
+	<body>
+		<h1 align=CENTER>
+		
+			WELCOME TO MORGAN X
+			
+		</h1>
+		
+			<h4> Morgan State University </h4>
+	<ul type=i>
+	
+	<!-- These are hyperlinks, left open for when we create the pages they direct to -->
+	
+        <li> <a HREF=""> About</a></li>
+		<li> <a HREF=""> Events</a></li>
+		<li> <a HREF=""> Donations</a></li>
+		<li> <a HREF=""> Forum</a></li>
+		
+	</ul>
+	
+</html>
